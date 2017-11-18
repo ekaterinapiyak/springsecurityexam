@@ -1,0 +1,10 @@
+com\company\service\UserDetailsServiceImpl.class
+com\company\service\UserServiceImpl.class
+com\company\controller\LoginController.class
+com\company\config\WebAppConfig.class
+com\company\config\Initializer.class
+com\company\entity\User.class
+com\company\controller\MainController.class
+com\company\service\UserService.class
+com\company\entity\enums\UserRoleEnum.class
+com\company\config\SecurityConfig.class
